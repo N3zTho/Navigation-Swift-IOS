@@ -16,8 +16,9 @@ class ViewController: UIViewController {
     }
     
     @IBAction func backHome(segue: UIStoryboardSegue) {
-           
+                   
     }
+  
 
 }
 
