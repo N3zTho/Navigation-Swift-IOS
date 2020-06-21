@@ -14,6 +14,7 @@
 		803A25AF249F087F00699A7A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 803A25AE249F087F00699A7A /* Assets.xcassets */; };
 		803A25B2249F087F00699A7A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 803A25B0249F087F00699A7A /* LaunchScreen.storyboard */; };
 		803A25BA249F0BE300699A7A /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 803A25B9249F0BE300699A7A /* SecondViewController.swift */; };
+		80AB7BFC24A015350042FB6A /* ThirdStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80AB7BFB24A015350042FB6A /* ThirdStoryboard.storyboard */; };
 		80CE493E249F13A300257F98 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80CE493D249F13A300257F98 /* ThirdViewController.swift */; };
 		80CE4940249F168300257F98 /* SecondStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80CE493F249F168300257F98 /* SecondStoryboard.storyboard */; };
 		80CE4942249F16D400257F98 /* FristStoryboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80CE4941249F16D400257F98 /* FristStoryboardViewController.swift */; };
@@ -30,6 +31,7 @@
 		803A25B1249F087F00699A7A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		803A25B3249F087F00699A7A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		803A25B9249F0BE300699A7A /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		80AB7BFB24A015350042FB6A /* ThirdStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ThirdStoryboard.storyboard; sourceTree = "<group>"; };
 		80CE493D249F13A300257F98 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		80CE493F249F168300257F98 /* SecondStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = SecondStoryboard.storyboard; sourceTree = "<group>"; };
 		80CE4941249F16D400257F98 /* FristStoryboardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FristStoryboardViewController.swift; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				803A25B3249F087F00699A7A /* Info.plist */,
 				80CE4941249F16D400257F98 /* FristStoryboardViewController.swift */,
 				80CE4943249F1A2700257F98 /* SecondStoryboardViewController.swift */,
+				80AB7BFB24A015350042FB6A /* ThirdStoryboard.storyboard */,
 			);
 			path = Navigation;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 			files = (
 				803A25B2249F087F00699A7A /* LaunchScreen.storyboard in Resources */,
 				803A25AF249F087F00699A7A /* Assets.xcassets in Resources */,
+				80AB7BFC24A015350042FB6A /* ThirdStoryboard.storyboard in Resources */,
 				803A25AD249F087D00699A7A /* Main.storyboard in Resources */,
 				80CE4940249F168300257F98 /* SecondStoryboard.storyboard in Resources */,
 			);

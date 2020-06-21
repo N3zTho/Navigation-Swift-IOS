@@ -33,4 +33,12 @@ class FristStoryboardViewController: UIViewController {
             destiny.getText = text.text 
         }
     }
+    
+    @IBAction func receiverParameter(segue: UIStoryboardSegue) {
+        if let receiver = segue.source as? SecondStoryboardViewController {
+            text.text = receiver.textParamenter.text
+        }
+                  
+    }
+    
 }
